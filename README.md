@@ -1,5 +1,5 @@
 ### ⚡ Installation
-
+Run "npm install" in the folder!
 Well, let's start by downloading the code.
 Go to the folder `config` then the file `bot.json`.
 For the bot to be able to start, please complete the file with your credentials as follows :
